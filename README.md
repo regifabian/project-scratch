@@ -71,7 +71,7 @@ Koleksi game yang dibuat menggunakan Scratch. Setiap game memiliki mekanik dan o
 **Objektif:**
 - Makan apple atau makanan yang muncul
 - Ular akan bertambah panjang setiap kali makan
-- Hindari menabrak tembok atau tubuh sendiri, karena akan game over
+- Hindari menabrak tembok karena akan game over
 
 ---
 
